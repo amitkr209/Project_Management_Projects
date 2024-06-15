@@ -20,7 +20,7 @@ Date:
 - Implemented data-driven digital marketing strategies to improve website traffic and user engagement.
 
 
-## Achievements:
+## Achievements
 - Successfully delivered the project on time and within budget, resulting in enhanced client satisfaction.
 - Improved website traffic and engagement through effective data-driven digital marketing strategies.
 - Demonstrated strong communication and team leadership skills, fostering a collaborative environment for project success.
