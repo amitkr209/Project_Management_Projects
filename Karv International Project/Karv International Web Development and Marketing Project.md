@@ -3,7 +3,7 @@ Work as a *Project Coordinator* and *Data Analyst*
 
 Date: 
 
-[Karv Website](http://karvinternational.com/)
+[Karv International Website](http://karvinternational.com/)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Overview
