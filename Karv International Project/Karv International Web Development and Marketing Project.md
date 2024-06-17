@@ -1,7 +1,7 @@
 # Karv International Web Development & Marketing Project
 Work as a *Project Coordinator* and *Data Analyst* 
 
-Date: 
+Timeline: November 2023 - December 2023 
 
 [Karv International Website](http://karvinternational.com/)
 
