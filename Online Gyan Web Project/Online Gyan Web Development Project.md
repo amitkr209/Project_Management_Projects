@@ -66,7 +66,7 @@ Agile Methodology, Scrum, Asana, Google Workspace, Dashboarding, Communication, 
 
 ### Sprint 2
 **Duration:** 3 weeks
-- Finalize data collection and smart data visualization.
+- Data collection and smart data visualization. for the website
 - Continue refining the website based on feedback from stakeholders.
 - Ongoing testing and quality assurance to ensure data accuracy and website functionality.
 
@@ -98,7 +98,7 @@ Agile Methodology, Scrum, Asana, Google Workspace, Dashboarding, Communication, 
 - **Solution:** Conducted regular stakeholder meetings to gather feedback and adjust the project plan accordingly.
 - **Outcome:** Achieved consensus on key performance indicators (KPIs) and project goals, leading to a more focused and efficient project execution.
 
-### Technical Challenges with React, JavaScript, and Tableau
+### Technical Challenges with coding
 - **Problem:** Encountered technical difficulties while configuring complex visualizations and ensuring real-time data updates.
 - **Solution:** Leveraged online resources, forums, and vendor support to troubleshoot and resolve technical issues.
-- **Outcome:** Successfully implemented advanced visualizations and ensured the website updated in real-time, enhancing its usability.
+- **Outcome:** Successfully implemented advanced visualizations and ensured the website was updated in real-time, enhancing its usability.
