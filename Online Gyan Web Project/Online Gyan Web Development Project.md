@@ -25,19 +25,19 @@ The Online Gyan Web Development Project aimed to create a visually appealing and
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Skills and Software I Used
-Agile Methodology, Scrum, Asana, Google Workspace, Dashboarding, Communication, Content Optimization, Project Management, Remote Work
+Agile Methodology, Scrum, JIRA, Google Workspace, Data Analytics, Microsoft Excel, Excel Dashboards, Documentation, Microsoft Office, Reporting, Microsoft Power BI, Google Workspace, Communication, Remote Teamwork, Online Collaboration
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Achievements
 - **Successfully developed a comprehensive backend panel for job application management**: Improved data handling and organization.
 - **Streamlined manual form submission processes**: Increased accuracy and efficiency.
 - **Implemented an AI-powered auto-fill feature**: Enhanced the user application experience.
-- **Increased Data-Driven Decision Making by 15%**: Developed a comprehensive analytics dashboard using Tableau and Python.
+- **Increased Data-Driven Decision-making by 15%**: Developed a comprehensive analytics dashboard using Tableau and Python.
 - **Boosted KPI Tracking Efficiency by 11%**: Streamlined the process of tracking and analyzing key business metrics using the dashboard.
 - **Reduced Reporting Time by 40%**: Provided training and documentation for users with the new dashboard in MS Office.
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Project Team
 1. Project Owner and Scrum Master -> 1
 2. Project Coordinator -> 1 (Me)
