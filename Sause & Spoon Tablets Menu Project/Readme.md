@@ -1,5 +1,5 @@
 # Tablets Menu Project (Sauce & Spoon)  
-**Role:** Project   
+**Role:** Assigned as a Project Manager
 **Date:** July 2022 – August 2022  
 **Associated With:** Google Project Management Professional Certification 
 
