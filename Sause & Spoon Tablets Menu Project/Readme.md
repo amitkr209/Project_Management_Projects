@@ -1,14 +1,13 @@
 # Tablets Menu Project (Sauce & Spoon)  
-**Role:** Project Coordinator  
+**Role:** Project   
 **Date:** July 2022 – August 2022  
-**Associated With:** Google pour les pros  
-[Project Documents Available Here](https://drive.google.com/drive/folders/12OMvhghyxBjndfzfnDaj6HzTfxSwUoDm?usp=share_link)  
+**Associated With:** Google Project Management Professional Certification 
 
 ---
 
 ## Overview  
 This project involved implementing a digital menu and POS system at Sauce & Spoon to enhance customer experience, reduce staffing costs, and improve service efficiency. Key objectives included:  
-- Replacing traditional menus with tablet-based digital menus to improve order accuracy and reduce workload.  
+- Replacing traditional and tablet-based digital menus to improve order accuracy and reduce workload.  
 - Integrating the tablet menu system with a POS solution to streamline service and eliminate order errors.  
 - Utilizing customer data for menu optimization and targeted marketing strategies.  
 
@@ -40,9 +39,7 @@ This project involved implementing a digital menu and POS system at Sauce & Spoo
 ---
 
 ## Project Team  
-1. Project Coordinator → 1 (Me)  
-2. Restaurant Management Team → 2  
-3. Technical Support Team → 2  
+1. Project Coordinator → 1 (Me)
 
 ---
 
