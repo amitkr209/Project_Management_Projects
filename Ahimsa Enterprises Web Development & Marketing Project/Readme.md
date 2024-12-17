@@ -45,7 +45,7 @@ This project focused on enhancing the client's online presence and user engageme
 
 ## Project Team  
 1. Project Manager → 1  
-2. Project Coordinator → 1 (Me)  
+2. Project Coordinator → 1 (Me Role)  
 3. Digital Marketing Team → 4  
    - SEO Specialist → 1  
    - Content Marketer → 1  
