@@ -1,6 +1,6 @@
 # Google & Facebook Ads Optimization Project  
 **Role:** Project Coordinator and Data Analyst  
-**Date:** December 2023 - Feburary 2024
+**Date:** December 2023 - February 2024
 
 **Client Website:** https://leinko.com
 
