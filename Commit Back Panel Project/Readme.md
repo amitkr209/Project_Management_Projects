@@ -2,9 +2,7 @@
 
 Work as a **Project Coordinator** and **Data Analyst**
 
-**Timeline:** March 2024 - May 2024
-
-**Client Website:** [Commit.dev](https://commit.dev/)
+**Timeline:** November 2024 - January 2025
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Projеct Dеscription
