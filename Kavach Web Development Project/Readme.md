@@ -1,13 +1,13 @@
 # Kavach Natural Web Development Project
 Work as a Project Coordinator
 
-Date: October 2023 – November 2023
+Date: Setember 2024 – November 2024
 
-[Kavach Natural Website](https://kavachnatural.com/)
+[Kavach Natural Website](https://kavachagro.com/)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Overview
-Thе Kavach Natural Wеb Dеvеlopmеnt Projеct aimеd to dеsign and crеatе a visually appеaling and usеr friеndly wеbsitе for Kavach Natural. Thе primary focus was on еnhancing customеr intеraction by 25% through improvеd wеbsitе usability and еngagеmеnt.
+The Kavach Natural Web Development Project aimed to design and create a visually appealing and user-friendly website for Kavach Natural. The primary focus was on enhancing customer interaction by 25% through improved website usability and engagement.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
