@@ -1,9 +1,9 @@
 # Online Gyan Web Development Project
 work as a **Project Coordinator**
 
-**Timeline:** January 2024 - February 2024
+**Timeline:** January 2025 - March 2025
 
-[Online Gyan Website](https://onlinegyan.net/)
+Website -> [Online Gyan Website](https://onlinegyan.net/)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
