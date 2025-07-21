@@ -1,7 +1,7 @@
 # Digital Marketing and SEO Optimization Project  
 **Role:** Project Coordinator
 
-**Date:** December 2023  
+**Date:** December 2023 - January 2024
 
 Client Website Link: http://ahimsa-enterprises.com
 
