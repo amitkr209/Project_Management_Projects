@@ -2,7 +2,7 @@
 
 Welcome to my **Project Management Projects Repository**!  
 
-This repository is a central hub for showcasing all project management artifacts, templates, and documentation created by **Amit Kumar** during his tenure as a **Project Coordinator and Data Analyst** at **Digital Fly Solution (DFS)** and through various freelancing projects.
+This repository is a central hub for showcasing all project management artifacts, templates, and documentation created by **Amit Kumar** during his tenure as a **Project Coordinator and Data Analyst** at **Digital Fly Solution (DFS)** and through various Freelancing Projects.
 
 ## What’s Inside?
 
