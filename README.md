@@ -6,7 +6,7 @@ This repository is a central hub for showcasing all project management artifacts
 
 ## What’s Inside?
 
-### Key Focus Areas:
+### Key Focus Areas
 - **Project Planning**:  
   Detailed project plans, timelines, and resource allocation strategies.  
 - **Execution and Monitoring**:  
